@@ -1,0 +1,28 @@
+_repo: The-romance-of-excavation-b-A-record-of-the-amazing-discoveries-in-Egypt-Assyria-Troy-Crete-e__70981
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Masters, David
+    gutenberg_agent_id: '56023'
+    url: http://www.gutenberg.org/2009/agents/56023
+description: ''
+gutenberg_issued: '2023-06-15'
+identifiers:
+  gutenberg: '70981'
+language: en
+pgterms:marc904: https://archive.org/details/romanceofexcavat00mastuoft
+pgterms:marc905: 20230411083514masters
+pgterms:marc906: '1923'
+pgterms:marc907: gb
+production_note: Bob Taylor, Aaron Adrignola and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJohn Lane the Bodley Head Limited, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The romance of excavation : $b A record of the amazing discoveries in Egypt,
+  Assyria, Troy, Crete, etc.'
+url: http://www.gutenberg.org/ebooks/70981

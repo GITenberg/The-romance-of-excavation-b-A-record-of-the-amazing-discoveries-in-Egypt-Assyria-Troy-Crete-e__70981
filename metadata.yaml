@@ -1,11 +1,16 @@
 _repo: The-romance-of-excavation-b-A-record-of-the-amazing-discoveries-in-Egypt-Assyria-Troy-Crete-e__70981
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70981-h/images/cover.jpg
 creator:
   author:
     agent_name: Masters, David
     gutenberg_agent_id: '56023'
     url: http://www.gutenberg.org/2009/agents/56023
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70981#The-romance-of-excavation-b-A-record-of-the-amazing-discoveries-in-Egypt-Assyria-Troy-Crete-e_
 gutenberg_issued: '2023-06-15'
 identifiers:
   gutenberg: '70981'
